@@ -12,7 +12,7 @@ Below is the layout of the Position Manager. You can completely toggle, minimize
 
 > 💡 *To drag and move the entire setup, click the **4-directional arrow button** located at the top-left of the Main Panel and click again.*
 
-https://github.com/AlgoCreators/ctrader-position-manager/blob/main/Position%20manager%20interface.jpg
+![cTrader Position Manager Interface](https://github.com/AlgoCreators/ctrader-position-manager/blob/main/Position%20manager%20interface.jpg)
 ---
 
 ## 1. Main Panel (Market & Pending Orders)
